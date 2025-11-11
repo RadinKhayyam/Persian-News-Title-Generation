@@ -1,4 +1,4 @@
-# Lightweight LLM Evaluation for Persian News Title Generation
+# Lightweight LLMs for Persian News Title Generation
 
 ## 🎯 Project Overview
 
